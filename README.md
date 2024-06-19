@@ -1,4 +1,4 @@
-# Machine-Learning-Framework---Pima-Indians
+# Machine-Learning-Framework-Pima-Indians
 
 **Why This Project Matters:**
 
