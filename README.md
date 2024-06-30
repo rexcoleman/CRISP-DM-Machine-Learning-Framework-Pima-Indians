@@ -3,6 +3,10 @@
 ## Executive Summary
 This project applies the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology to predict the onset of diabetes using the Pima Indians Diabetes Database. By following the six phases of CRISP-DM—Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, and Deployment—we developed a robust predictive model that accurately forecasts diabetes onset based on diagnostic measures. The model aims to assist in early diagnosis and timely intervention, thereby improving patient outcomes.
 
+<img src="img/CRISP-DM_Process_Diagram.png" alt="CRISP-DM" width="600">
+
+*Figure 1: CRISP-DM diagram*
+
 ## Table of Contents
 1. [Introduction](#1-introduction)
     - [1.1 Project Overview](#11-project-overview)
@@ -119,7 +123,7 @@ Feature importance analysis was conducted to understand which features contribut
 
 <img src="img/variable_importance.png" alt="Feature Importance" width="600">
 
-*Figure 1: Feature importance analysis was conducted to understand which features contributed most to the model predictions. This analysis also enhanced model interpretability and trustworthiness.*
+*Figure 2: Feature importance analysis was conducted to understand which features contributed most to the model predictions. This analysis also enhanced model interpretability and trustworthiness.*
 
 
 ## 7. Deployment
