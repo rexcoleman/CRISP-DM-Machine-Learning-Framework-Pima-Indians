@@ -117,7 +117,10 @@ Error analysis involved examining the errors made by the models. This helped ide
 ### 6.3 Feature Importance
 Feature importance analysis was conducted to understand which features contributed most to the model predictions. This analysis also enhanced model interpretability and trustworthiness.
 
-![Feature_Importance](img/variable_importance.png)
+<img src="img/variable_importance.png" alt="Feature Importance" width="600">
+
+*Figure 1: Feature importance analysis was conducted to understand which features contributed most to the model predictions. This analysis also enhanced model interpretability and trustworthiness.*
+
 
 ## 7. Deployment
 
